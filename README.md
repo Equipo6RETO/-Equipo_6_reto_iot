@@ -1,3 +1,4 @@
-database de reto que incluye
+database de reto que incluye:
+
 - Database
--Código python para agregar datos
+- Código python para agregar datos
