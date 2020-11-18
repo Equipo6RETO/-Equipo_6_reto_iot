@@ -1,4 +1,4 @@
-database de reto que incluye:
+carpeta de reto que incluye:
 
 - Database
 - Código python para agregar datos
