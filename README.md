@@ -1,1 +1,3 @@
-# -Equipo_6_reto_iot
+database de reto que incluye
+- Database
+-Código python para agregar datos
