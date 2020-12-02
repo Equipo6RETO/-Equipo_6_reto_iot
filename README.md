@@ -1,2 +1,2 @@
-La carpeta con el reto ya listo ya ctualizado esta en CarpetaRetoFinal
+La carpeta con el reto ya listo y actualizado esta en CarpetaRetoFinal
 
