@@ -1,4 +1,2 @@
-carpeta de reto que incluye:
+La carpeta con el reto ya listo ya ctualizado esta en CarpetaRetoFinal
 
-- Database
-- Código python para agregar datos
